@@ -29,3 +29,7 @@ Il vous suffit de faire :
 ```bash
 python notepy.py
 ```
+
+## Crédits
+
+Ce projet utilise la bibliothèque [PronotePy](https://github.com/bain3/pronotepy/tree/master) pour interagir avec Pronote. Merci à [bain3](https://github.com/bain3) pour son travail sur cette bibliothèque.
